@@ -1,0 +1,21 @@
+.container{
+    width: 150%;
+    /* display: flex;
+    justify-content: center; */
+    text-align: center;
+    /* background-color: rgb(255, 167, 167); */
+
+
+}
+
+.h{
+    color: rgb(112, 112, 236);
+}
+
+h2{
+    color: blueviolet;
+}
+img{
+    /* padding: 55px; */
+    float: left;
+}

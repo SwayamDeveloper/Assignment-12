@@ -1,0 +1,31 @@
+  h2{
+    padding: 20px;
+}  
+
+h4{
+    
+    padding: 15px;
+} 
+
+h3{
+    display: flex;;
+}
+.para{
+    border: 3px solid black;
+    border-radius: 4px;
+    float: left;
+    font-size: large;
+    /* display: flex; */
+    /* justify-content: flex-start; */
+    display: inline-grid
+}
+h3{
+
+  align-content: center;
+}
+ 
+p{
+    
+    padding: auto;
+}
+
